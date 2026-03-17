@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 # 🚀 Mi Ruta de Aprendizaje: Git & GitHub
+=======
+Título definitivo de Master
+Título editado en la Rama
+>>>>>>> 3b7a960d2e1d5d58ba7a2c22c7f49891464021b6
 
 Este repositorio contiene mis apuntes y ejercicios del curso intensivo de 7 días.
 
